@@ -15,6 +15,5 @@ The following website is a part of my first website, where I used vanilla JavaSc
 
 TODO:
 - Make some buttons look more appealing.
-- Comments in my code.
 
 ![tradishionalgif](https://user-images.githubusercontent.com/58588711/114265837-4fcefd00-99f3-11eb-8d89-dae103a9295d.gif)
